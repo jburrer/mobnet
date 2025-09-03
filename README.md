@@ -7,6 +7,6 @@ Features include:
 - Task assignment
   - Members can be assigned tasks
   - Can then delegate a task to another member
-  - Admins can see whose doing a task, as well as metrics like how evenly tasks are distributed
+  - Admins can see who is doing a task, as well as metrics like how evenly tasks are distributed
 - Allow members to cast votes, reply to surveys, etc
 - Import/export data to spreadsheets & related software (using the csv format)
